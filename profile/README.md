@@ -2,7 +2,7 @@
 
 **The most feature-rich tokenization standard ever built — exclusively available as a Cosmos SDK module.**
 
-Enterprise-grade tokenization with 20+ compliance primitives, protocol-level enforcement, and full EVM compatibility. No smart contracts required. No per-project audits.
+Enterprise-grade tokenization with 20+ compliance primitives, protocol-level enforcement, and full EVM compatibility. No smart contracts required. No per-project audits. Tokenize annything directly in-site in 60 seconds.
 
 ## Key Capabilities
 
